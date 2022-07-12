@@ -1,30 +1,23 @@
 <h2> Hi, I'm Mike Williams! </h2>
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://giphy.com/gifs/quiksilver-surf-stab-quik-5z83Hy9AFoxfxCCbH1)" width="230">
 <p><em>Enterprise Cloud Enginner at <a href="https://www.alterramtnco.com/">Alterra Mountain Company</a>
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: Mike Williams](https://img.shields.io/badge/-Mike_Williams-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwilliams0714/)](https://www.linkedin.com/in/mwilliams0714/)
+[![GitHub Mike](https://img.shields.io/github/followers/Mwilliams0714?label=follow&style=social)](https://github.com/Mwilliams0714)
 
 
 ###  A little more about me...  
 
 ```javascript
 const Mike = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  pronouns: "he" | "him",
+  code: [Python, PowerShell],
+  tools: [Terraform, Docker, Ansible, Kubernetes],
+  Frameworks: ["CI/CD", "Cloud Native", DevOps],
+
+ challenge: "I am doing the #100DaysOfCode challenge focused on Python"
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi,<b> I'll be happy to meet you!</b> :)</em>
 
 ---
 
